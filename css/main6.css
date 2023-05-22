@@ -1,0 +1,32 @@
+body{
+    background: white;
+}
+.text-block{
+    width: 1300px;
+    background: white;
+    margin: 30px auto;
+    padding: 15px 25px;
+}
+.text-block-item{
+    width: 30%;
+    border-style: groove;
+    border-width: 2px;
+    border-color: laung;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin: 0 20px;
+    height: 400px;
+    border-radius: 30px;
+    border-top-color: green;
+    border-top-width: 7px;
+    border-right-width: 7px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.claer{
+    clear: both;
+}

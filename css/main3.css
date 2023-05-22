@@ -1,0 +1,36 @@
+body{
+    background: skyblue;
+}
+.text-block{
+    background: green;
+    color: white;
+    margin: 50px auto;
+    padding: 1px;
+}
+.text-block-time{
+    width: 900px;
+    text-align: center;
+    box-sizing: border-box;
+    float: left;
+}
+.clear {
+    clear: both;
+}
+.text-block-2{
+    width: 900px;
+    margin: 0 20px;
+    padding: 10px;
+}
+.text-block-the{
+    width: 35%;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+img{
+    width: 250px;
+    height: 250px;
+}

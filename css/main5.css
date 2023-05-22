@@ -1,0 +1,17 @@
+.text-block{
+    width: 1000px;
+    background-color: white;
+    margin: 20px auto;
+}
+.text-block-item{
+    width: 12%;
+    border: solid;
+    background-color: #32d217;
+    text-align: center;
+    padding: 16px 24px;
+    float: left;
+    box-sizing: border-box;
+    margin: 0 20px;
+}
+.clear{
+    clear: both;
